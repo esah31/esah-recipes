@@ -1,2 +1,2 @@
 # esah-recipes
-Tasty dishes around the world!
+Tasty dishes in Japan using HTML and a sprinkle of CSS!
